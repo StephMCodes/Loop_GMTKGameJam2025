@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c686f3dd8afd4e241bc331869f602e6f, type: 3}
+  m_Name: DormDay2
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '[July 31st, 2025]
+
+    [9:37 AM]
+
+    [Dorm room]'
+  - The same dread sits in my stomach, but somehow, it feels heavier than yesterday.
+    Did I sleep in again? What are the odds that-
+  - My phone shows the same date and time as yesterday. That's weird. And everything
+    looks just as I left it the evening Molly and I fought.
+  - She's still not here. And her phone shows the same date and time as mine...
+  - This has to be a joke. If this is a time loop, maybe she needs my help. Or maybe
+    my sleep schedule and all the paint I inhale has finally made me crazy.
+  - Ah right! I drew last night. If my progress is still there, than this must be
+    a bug...
+  - ...Crap. It's like I never continued it.
+  - Screw English class! I need to find Molly!
+  responses: []
