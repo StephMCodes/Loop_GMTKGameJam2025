@@ -12,5 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c686f3dd8afd4e241bc331869f602e6f, type: 3}
   m_Name: DormDay1
   m_EditorClassIdentifier: 
-  dialogue: []
+  dialogue:
+  - '[July 31st, 2025]
+
+    [9:37 AM]
+
+    [Dorm room]'
+  - This morning, I don't need five alarms to get out of bed. Instead, the dread
+    sitting in my stomach pulls me from the covers faster than usual.
+  - I scan the room for Molly, my roommate and a good friend of mine, but it seems
+    she didn't want to have breakfast together.
+  - It's fine, I dont feel like eating this morning anyway. Without her, I usually
+    just skip it.
+  - 'Hm, she must have been in a rush: she left her phone behind, the scatterbrain.'
+  - Who am I kidding... Molly probably ran out of here to avoid me after our fight
+    yesterday.
+  - Let's just hope English class isn't awkward.
   responses: []
