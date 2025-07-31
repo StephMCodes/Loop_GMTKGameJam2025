@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c686f3dd8afd4e241bc331869f602e6f, type: 3}
+  m_Name: RiverDay2
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Even though I'm alone, I make sure no one is looking before I go under the yellow
+    tape and into the more secluded area of the beach.
+  - What in the world... Those claw marks weren't there before. Signs of a struggle.
+    Was it an animal? But the kid didn't really look like he got attacked, did he?
+  - And that sludge on the ground... Looks gross, like an oil spill. Something's
+    up here, and I have the sinking feeling it's my fault Molly ran off on her own,
+    and that I need to fix it. But I need more information...
+  - Autopsy reports, investigation results... Heh, guess my parent's were right when
+    they said my art degree wasn't very useful. Kinda wish I was a lawyer or something
+    right about now.
+  - I need to find more clues. One of the reasons Molly and I fought is because I
+    felt she was keeping things from me, and I got pushy. But now, I need to snoop
+    until I find something.
+  responses: []

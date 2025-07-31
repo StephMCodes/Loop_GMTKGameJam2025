@@ -10,16 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c686f3dd8afd4e241bc331869f602e6f, type: 3}
-  m_Name: DormNight2
+  m_Name: MollyNotes
   m_EditorClassIdentifier: 
   dialogue:
-  - '[July 31st, 2025]
-
-    [1:22 PM]
-
-    [Dorm room]'
-  - Okay, time to look around. Usually, they check a missing person's browsing history,
-    right? And their phone. Or is that criminals... Whatever.
-  - I try to unlock her phone. Her birthday? No. Her little brother's birthday? Still
-    locked. She has a bad memory, it has to be a number she could pull up...
+  - insert molly notes here
+  - The library, huh? Maybe she's there.
   responses: []
