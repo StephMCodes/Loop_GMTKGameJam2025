@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c686f3dd8afd4e241bc331869f602e6f, type: 3}
+  m_Name: DormNight1
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '[July 31st, 2025]
+
+    [11:42 PM]
+
+    [Dorm room]'
+  - ...Maybe she slept over at a friend's. I should just go to bed...
+  - The dorm room is lonely without her. Molly was always cheerful and picks herself
+    back up easy, but I guess there's a limit to everything.
+  - Or maybe, in my selfishness, I always assumed she was okay. I can't even handle
+    my own problems, and the thought that she also had her own was intimidating.
+  - So I let her play the part of the smiling, easygoing friend. Now that I think
+    about it, despite our closeness, we're always just barely out of reach of one
+    another.
+  - And look where it got us...
+  responses:
+  - responseText: Sleep
+    dialogueObject: {fileID: 11400000, guid: ddf345ec66687ec43aead944ed26c9dc, type: 2}
