@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 50b37697bfc13424fb2fcf0d756f72a7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blank-message-bubbles-chat-messaging-vector-34665348-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 458
+        width: 203
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19eee94b17b9a945b2645f664864d60
+      internalID: -269990630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blank-message-bubbles-chat-messaging-vector-34665348-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 457
+        width: 237
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5d16d5c17c781468f73528671985f6
+      internalID: 45081445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blank-message-bubbles-chat-messaging-vector-34665348-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 404
+        width: 271
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f1d3613fc5f0845a62667f54736030
+      internalID: -1186891785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blank-message-bubbles-chat-messaging-vector-34665348-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 404
+        width: 169
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9bfa213d0d1a845bdd7704ef84fd73
+      internalID: 1494002075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blank-message-bubbles-chat-messaging-vector-34665348-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 352
+        width: 185
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d62a25add9641408d8144d8776f616
+      internalID: 708030235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blank-message-bubbles-chat-messaging-vector-34665348-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 352
+        width: 257
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320f6323a7859b3498457c2188c678d4
+      internalID: 298697816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blank-message-bubbles-chat-messaging-vector-34665348-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 275
+        width: 273
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a3cfc0558b49648bfe0a4d201ca013
+      internalID: -579008187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blank-message-bubbles-chat-messaging-vector-34665348-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 275
+        width: 167
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb97b02aef7b5a40836b1f595ff8967
+      internalID: 1337555746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blank-message-bubbles-chat-messaging-vector-34665348-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 176
+        width: 198
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a93c7893fad0904e9f5fcaddb7b5eb2
+      internalID: -2132404029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blank-message-bubbles-chat-messaging-vector-34665348-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 176
+        width: 242
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c425370729e102d4d9c01a56de6282b3
+      internalID: -1606927358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blank-message-bubbles-chat-messaging-vector-34665348-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 60
+        width: 260
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616d91e67ae9f8541b8819ce664dac85
+      internalID: -86054366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blank-message-bubbles-chat-messaging-vector-34665348-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 60
+        width: 182
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebbf8a0c676f3041b2e2433846f5faf
+      internalID: -1593672917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      blank-message-bubbles-chat-messaging-vector-34665348-removebg-preview_0: -269990630
+      blank-message-bubbles-chat-messaging-vector-34665348-removebg-preview_1: 45081445
+      blank-message-bubbles-chat-messaging-vector-34665348-removebg-preview_10: -86054366
+      blank-message-bubbles-chat-messaging-vector-34665348-removebg-preview_11: -1593672917
+      blank-message-bubbles-chat-messaging-vector-34665348-removebg-preview_2: -1186891785
+      blank-message-bubbles-chat-messaging-vector-34665348-removebg-preview_3: 1494002075
+      blank-message-bubbles-chat-messaging-vector-34665348-removebg-preview_4: 708030235
+      blank-message-bubbles-chat-messaging-vector-34665348-removebg-preview_5: 298697816
+      blank-message-bubbles-chat-messaging-vector-34665348-removebg-preview_6: -579008187
+      blank-message-bubbles-chat-messaging-vector-34665348-removebg-preview_7: 1337555746
+      blank-message-bubbles-chat-messaging-vector-34665348-removebg-preview_8: -2132404029
+      blank-message-bubbles-chat-messaging-vector-34665348-removebg-preview_9: -1606927358
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
