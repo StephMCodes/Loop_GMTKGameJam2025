@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c686f3dd8afd4e241bc331869f602e6f, type: 3}
+  m_Name: FiguringOut
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Right. So those people who drowned, and that kid\u2014 they were taken by some
+    sort of ghost? If that\u2019s what\u2019s happened to Molly, too\u2014"
+  - "I have to go help her! If the ghosts are connected to the oil from the spill\u2014
+    the water got all oily late last night, and what I saw come at me..."
+  - "I bet that was the ghost we\u2019ve both been dreaming about. Maybe I can do
+    something to lure it out of the water. "
+  - "Hmm\u2014 ghost hunting techniques? I\u2019d better do some research before
+    I head to the beach tonight. I\u2019m getting Molly back from this thing no matter
+    what.\r"
+  responses: []

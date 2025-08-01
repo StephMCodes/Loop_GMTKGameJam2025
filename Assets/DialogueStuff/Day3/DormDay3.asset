@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c686f3dd8afd4e241bc331869f602e6f, type: 3}
+  m_Name: DormDay3
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Aaah! What- what was that?! Where- oh, i've woken up again. Oh, god... It feels
+    like a nightmare, but I think it was real...
+  - Whatever I saw, it looked like those things I've been dreaming about. Hang on,
+    Molly had been sleeping terribly too. Maybe we've both been dealing with the
+    same thing...
+  - Alright. I'm gonna snoop in her journal. She's kept one since we were kids, and
+    I know she keeps it under her bed. I don't think she would have written where
+    she's going, but there has to be something.
+  responses: []
