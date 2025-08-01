@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c686f3dd8afd4e241bc331869f602e6f, type: 3}
+  m_Name: ScaredMollyGoop
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '"STAY AWAY!" Molly''s voice becomes clearer than I ever heard it tonight, and
+    she shirks away from my touch, pulling heavily on the oil to wade further back.'
+  - The oil's pulling her down, but she seems more focused on a point just above
+    my shoulder, more scared than I've ever seen her. "D o n ' t... look behind you."
+  - '"Just walk backwards... Walk away from all this, or I''ll have you on my conscience
+    too. It''s all my fault, it  h a s  to be..."'
+  - Horrified, the dread envelopping me becomes heavier and heavier, and I can't
+    help but remained pinned where I am.
+  responses:
+  - responseText: No, it's my fault!
+    dialogueObject: {fileID: 11400000, guid: ddf345ec66687ec43aead944ed26c9dc, type: 2}

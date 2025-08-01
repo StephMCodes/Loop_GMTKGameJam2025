@@ -13,5 +13,23 @@ MonoBehaviour:
   m_Name: RiversideNight3
   m_EditorClassIdentifier: 
   dialogue:
-  - 
-  responses: []
+  - There's a figure in the darkness... Molly!
+  - But she looks... wrong. Covered in whatever that mysterious oil is. And she's
+    pale, like a ghost. God, is that what happened to the kid? Would Molly's body
+    float up to the surface tomorrow morning?
+  - I couldn't bear to wake up if so. The regret would kill me, I think.
+  - '"W i l l o w..." Molly''s voice comes out garbled, like her vocal chords were
+    made of goop. The amalgamation tries to pull her under, and she struggles to
+    remain upright.'
+  - '"S t a y  a w a y..."'
+  - '"No! I-I''m here to help!" I throw everything I have to the ghost, but damn,
+    it looks more like an alien or a monster now, and im terrified. "Let Molly go!"'
+  - The dark amalgamation keeps away from me as I wade towards her, as though me
+    and the ghost were oil and water.
+  - But nothing I brought seems to work, and I don't know any prayers, so all I can
+    think of is to just approach Molly, and hope the oil stays off me too.
+  responses:
+  - responseText: Hug her
+    dialogueObject: {fileID: 11400000, guid: ddf345ec66687ec43aead944ed26c9dc, type: 2}
+  - responseText: Pull her away
+    dialogueObject: {fileID: 11400000, guid: ddf345ec66687ec43aead944ed26c9dc, type: 2}

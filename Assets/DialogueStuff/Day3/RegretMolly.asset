@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c686f3dd8afd4e241bc331869f602e6f, type: 3}
+  m_Name: RegretMolly
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '"If I hadn''t hurt your feelings and brushed them aside all this time, you wouldn''t
+    have faced this alone!" The words fall out of my mouth, hurried like I''ll run
+    out of breath.'
+  - I feel sick to my stomach, trying not to look behind me, as Molly instructed.
+    But whatever's there is terrifying to Molly and the amalgamation too, who becomes
+    erratic, so I can't run away.
+  - '"I regret everything, and I''ve been trying to fix it. I couldn''t bear to wake
+    up and see you lifelessly float up to the surface-  I''d rather die, and I feel
+    terrible for it."'
+  - '"Unlike you, I...I think I''d just rot in bed, or..." I swallow thickly, changing
+    the subject. "I wouldn''t be looking for answers, like you. Investigating all
+    on your own."'
+  - '"I regret everything, and I''ve been trying to fix it. I know it''s too late
+    to fix what happened while you were on watch, but I won''t let the same thing
+    happen to you."'
+  - '"We''re both haunted, I think... But I''ve been pretending otherwise, and I''m
+    sorry. I haven''t been a shoulder to cry on, or someone to be supported by. Please,
+    let''s just talk."'
+  responses: []
