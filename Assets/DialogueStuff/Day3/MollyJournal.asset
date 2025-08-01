@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c686f3dd8afd4e241bc331869f602e6f, type: 3}
+  m_Name: MollyJournal
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Her journal! Okay, sorry Molly, but I gotta read it.
+  - "\"20/07: Got fired today. I don\u2019t want to talk about it.\r\n"
+  - "There\u2019s a chance I can get the job back in a couple of years, if I do some
+    more training, but\u2026 ugh, this is so messed up!"
+  - "Nothing happened! I was watching the whole time\u2014 no one went under! No
+    one was even out at the side where those people say they saw him! So how could
+    this have happened?\r\n"
+  - "Why won\u2019t anyone believe me?  Willow says it's not my fault, and not to
+    blame myself for this kind of accident. To just move on.\r"
+  - But everyone says it's my fault, so is she lying to me? Is she just brushing
+    me off with all this moving on crap? In my place, I KNOW she wouldn't just move
+    on.
+  - "25/07: Had that dream like every night, the one about him drowning. This is
+    the third time since. There\u2019s always something dark in the water around
+    him\u2014 kinda like an oil slick? But with hands?"
+  - "It\u2019s scary when I\u2019m in the dream, but when I remember it it\u2019s
+    just like cheap horror game effects\u2014 some slime amalgamation or oil zombies
+    or something."
+  - "Really weird. Whoever\u2019s doing my dreams should hire a better effects guy."
+  - Willow keeps trying to hang out and pretend everything is normal. It's starting
+    to get on my nerves. We haven't talked about it since.
+  - '28/07: There was a boat this time. I feel like every night, I understand the
+    dream better. The oil amalgamation thing got me in the dream, and I saw a boat,
+    and I woke up.'
+  - "The\u2026 Her Majesty, I think? It looked old. Maybe it's a real boat.\r\nSomething
+    happened to it. I think, whatever the oil hands are. The ghosts.\r\n"
+  - "That\u2019s what drowned the boy. It has to be that.\n...I feel like a bad person,
+    trying to justify what has to be my failure with some occult crap while I avoid
+    my friend. \r"
+  - "If it\u2019s not that, then it really was my fault."
+  responses: []
