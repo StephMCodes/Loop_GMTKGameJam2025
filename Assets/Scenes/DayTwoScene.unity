@@ -1246,7 +1246,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4558367639241986435, guid: 901beaca281c7bb4aaa3088a62459931, type: 3}
       propertyPath: m_Name
-      value: DIalogueCanvas (Class)
+      value: DIalogueCanvas (River)
       objectReference: {fileID: 0}
     - target: {fileID: 4558367639241986435, guid: 901beaca281c7bb4aaa3088a62459931, type: 3}
       propertyPath: m_IsActive
@@ -1255,7 +1255,7 @@ PrefabInstance:
     - target: {fileID: 8505982643579808947, guid: 901beaca281c7bb4aaa3088a62459931, type: 3}
       propertyPath: testDialogue
       value: 
-      objectReference: {fileID: 11400000, guid: 0f0b3e888cfd1db4290f6de1c825e9bb, type: 2}
+      objectReference: {fileID: 11400000, guid: 783a9292752c6144eaf1b2cc41c8d385, type: 2}
     - target: {fileID: 8546598751906306433, guid: 901beaca281c7bb4aaa3088a62459931, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -1954,7 +1954,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 674888587}
+      - m_Target: {fileID: 1839161913}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
         m_Mode: 6
@@ -2371,7 +2371,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 675136227}
+      - m_Target: {fileID: 674888587}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
         m_Mode: 6
@@ -2471,7 +2471,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ddbf9d3573edd244b99702b7e61ab49d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 130c7910b0935434bb2f04643f1b86ca, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2827,7 +2827,7 @@ PrefabInstance:
     - target: {fileID: 8505982643579808947, guid: 901beaca281c7bb4aaa3088a62459931, type: 3}
       propertyPath: testDialogue
       value: 
-      objectReference: {fileID: 11400000, guid: e51b9d67a369d1b448ce2e91d770b650, type: 2}
+      objectReference: {fileID: 11400000, guid: e6f37056ef9903c4e816be515ff59d9f, type: 2}
     - target: {fileID: 8993773408167974803, guid: 901beaca281c7bb4aaa3088a62459931, type: 3}
       propertyPath: m_fontAsset
       value: 
@@ -3117,12 +3117,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4558367639241986435, guid: 901beaca281c7bb4aaa3088a62459931, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8505982643579808947, guid: 901beaca281c7bb4aaa3088a62459931, type: 3}
       propertyPath: testDialogue
       value: 
-      objectReference: {fileID: 11400000, guid: c453d70180331134b978c27b124d74ad, type: 2}
+      objectReference: {fileID: 11400000, guid: 58a4c3bdd2905b4419a96a565bd2a2f6, type: 2}
     - target: {fileID: 8546598751906306433, guid: 901beaca281c7bb4aaa3088a62459931, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -3273,7 +3273,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1570773966}
+      - m_Target: {fileID: 674888587}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
         m_Mode: 6
@@ -3459,13 +3459,13 @@ CanvasRenderer:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
-  - {fileID: 1855904556}
   - {fileID: 735865260}
-  - {fileID: 675136226}
+  - {fileID: 1855904556}
   - {fileID: 1839161912}
+  - {fileID: 674888586}
+  - {fileID: 675136226}
   - {fileID: 1900159967}
   - {fileID: 1655286420}
-  - {fileID: 674888586}
   - {fileID: 370484347}
   - {fileID: 738198431}
   - {fileID: 161253602}
