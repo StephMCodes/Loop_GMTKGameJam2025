@@ -13,7 +13,20 @@ MonoBehaviour:
   m_Name: RiverNightAttackDay2
   m_EditorClassIdentifier: 
   dialogue:
-  - willow gets attacked
+  - No one's around, so I snuck by to the riverside easily. The police tape looks
+    a lot more eerie in this lighting.
+  - I hold up the newspaper to compare the shore in front of me to the one pictured.
+    Its a match...
+  - In the darkness, the water looks like a thick oil, a kind of tar that smells
+    foul. The moonlight gives it a rainbow-y sheen, and I start to hear a gurgle
+    as I approach the water, curiosity overcoming me.
+  - 'I feel the need to approach the water: the kind of appel-du-vide you feel when
+    walking on a tall bridge. The urge to just throw off everything in your hands,
+    including yourself, against your better instincts.'
+  - It's my fault, what happened to Molly... Hell, I don't even know WHAT happened
+    for sure... The thought of it pins me in place, and I stand helpless as the gunky
+    water forms into something I don't understand in the darkness...
+  - Something that lunges out at me-
   responses:
   - responseText: WAKE UP
     dialogueObject: {fileID: 11400000, guid: ddf345ec66687ec43aead944ed26c9dc, type: 2}
