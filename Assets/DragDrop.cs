@@ -27,25 +27,31 @@ public class DragDrop : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
     // Update is called once per frame
     public void OnPointerClick(PointerEventData eventData)
     {
-        anim.Play();
-        button.SetActive(true);
-        mouseHoverColor = new Color(255f, 255f, 255f);
         if (!readJournal)
         {
             audioSource.Play();
+            mouseHoverColor = new Color(255f, 255f, 255f);
+            anim.Play();
+            button.SetActive(true);
             readJournal = true;
+            image.color = ogColor;
         }
     }
 
     public void OnPointerEnter(PointerEventData eventData)
     {
-        image.color = mouseHoverColor;
-        Debug.Log("hover");
+        if (!readJournal)
+        {
+            image.color = mouseHoverColor;
+        }
     }
 
     public void OnPointerExit(PointerEventData eventData)
 
     {
-        image.color = ogColor;
+        if (!readJournal)
+        {
+            image.color = ogColor;
+        }
     }
 }
