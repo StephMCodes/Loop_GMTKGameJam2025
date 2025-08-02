@@ -2539,7 +2539,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c01a475a2a757e418a0f95d62af0852, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelToLoad: 
+  levelToLoad: DayTwoScene
 --- !u!4 &1323094667
 Transform:
   m_ObjectHideFlags: 0
