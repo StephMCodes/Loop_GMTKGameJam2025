@@ -23,6 +23,4 @@ MonoBehaviour:
   - Alright. I'm gonna snoop in her journal. She's kept one since we were kids, and
     I know she keeps it under her bed. I don't think she would have written where
     she's going, but there has to be something.
-  responses:
-  - responseText: Snoop.
-    dialogueObject: {fileID: 11400000, guid: 7581f532790eca24da6e438fb92cbe95, type: 2}
+  responses: []
