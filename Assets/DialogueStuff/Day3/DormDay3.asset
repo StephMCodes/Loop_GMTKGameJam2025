@@ -13,6 +13,11 @@ MonoBehaviour:
   m_Name: DormDay3
   m_EditorClassIdentifier: 
   dialogue:
+  - '[July 31st, 2025]
+
+    [9:37 AM]
+
+    [Dorm room]'
   - Aaah! What- what was that?! Where- oh, i've woken up again. Oh, god... It feels
     like a nightmare, but I think it was real...
   - I'm lucky to be alive. Or rather, I think the pure, distilled regret weighing
