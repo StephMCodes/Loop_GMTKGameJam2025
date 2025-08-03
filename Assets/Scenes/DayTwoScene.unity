@@ -998,8 +998,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b8e8aeb7cd3d6d9499214e802f454a93, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DialogueUI: {fileID: 0}
-  EventSystem: {fileID: 0}
+  DialogueUI: {fileID: 1097921838}
+  EventSystem: {fileID: 735865257}
   pauseMenu: {fileID: 43495013}
 --- !u!114 &52347147
 MonoBehaviour:
@@ -17475,8 +17475,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b8e8aeb7cd3d6d9499214e802f454a93, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DialogueUI: {fileID: 0}
-  EventSystem: {fileID: 0}
+  DialogueUI: {fileID: 1000214933}
+  EventSystem: {fileID: 735865257}
   pauseMenu: {fileID: 1622593638}
 --- !u!114 &574272664
 MonoBehaviour:
@@ -31352,6 +31352,17 @@ MonoBehaviour:
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
   m_ReverseArrangement: 0
+--- !u!114 &1000214933 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8505982643579808947, guid: 901beaca281c7bb4aaa3088a62459931, type: 3}
+  m_PrefabInstance: {fileID: 1000214922}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000214923}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0cf2e43fe6ec2b45abe6b608852c62c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1004419212
 GameObject:
   m_ObjectHideFlags: 0
@@ -33755,6 +33766,17 @@ MonoBehaviour:
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
   m_ReverseArrangement: 0
+--- !u!114 &1097921838 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8505982643579808947, guid: 901beaca281c7bb4aaa3088a62459931, type: 3}
+  m_PrefabInstance: {fileID: 1097921827}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1097921828}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0cf2e43fe6ec2b45abe6b608852c62c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1100470810
 GameObject:
   m_ObjectHideFlags: 0
@@ -40364,7 +40386,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DialogueUI: {fileID: 164125469}
-  EventSystem: {fileID: 0}
+  EventSystem: {fileID: 735865257}
   pauseMenu: {fileID: 996407234}
 --- !u!114 &1334210638
 MonoBehaviour:
@@ -47461,7 +47483,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DialogueUI: {fileID: 1779420202}
-  EventSystem: {fileID: 0}
+  EventSystem: {fileID: 735865257}
   pauseMenu: {fileID: 1845141193}
 --- !u!114 &1633283241
 MonoBehaviour:
@@ -51804,6 +51826,17 @@ MonoBehaviour:
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
   m_ReverseArrangement: 0
+--- !u!114 &1839161923 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8505982643579808947, guid: 901beaca281c7bb4aaa3088a62459931, type: 3}
+  m_PrefabInstance: {fileID: 1839161912}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1839161913}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0cf2e43fe6ec2b45abe6b608852c62c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1843578714
 GameObject:
   m_ObjectHideFlags: 0
@@ -55487,8 +55520,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b8e8aeb7cd3d6d9499214e802f454a93, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DialogueUI: {fileID: 0}
-  EventSystem: {fileID: 0}
+  DialogueUI: {fileID: 1839161923}
+  EventSystem: {fileID: 735865257}
   pauseMenu: {fileID: 721599909}
 --- !u!114 &1974813956
 MonoBehaviour:

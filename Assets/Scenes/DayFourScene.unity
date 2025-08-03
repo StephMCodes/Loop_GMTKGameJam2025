@@ -554,6 +554,17 @@ MonoBehaviour:
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
   m_ReverseArrangement: 0
+--- !u!114 &59618643 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8505982643579808947, guid: 901beaca281c7bb4aaa3088a62459931, type: 3}
+  m_PrefabInstance: {fileID: 59618638}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 59618639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0cf2e43fe6ec2b45abe6b608852c62c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &83333137
 GameObject:
   m_ObjectHideFlags: 0
@@ -2010,8 +2021,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b8e8aeb7cd3d6d9499214e802f454a93, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DialogueUI: {fileID: 0}
-  EventSystem: {fileID: 0}
+  DialogueUI: {fileID: 59618643}
+  EventSystem: {fileID: 1825034624}
   pauseMenu: {fileID: 1554327561}
 --- !u!114 &1056991776
 MonoBehaviour:
