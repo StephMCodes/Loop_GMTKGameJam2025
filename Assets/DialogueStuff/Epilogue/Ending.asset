@@ -19,8 +19,8 @@ MonoBehaviour:
 
     [Dorm room]'
   - I'm being lazy in bed when Molly comes out of our bathroom, smelling strongly
-    of shampoo, soap, conditionner, body spray, cream... Just everything in our bathroom,
-    really.
+    of shampoo, soap, conditionner, body spray, perfume, cream... Just about everything
+    in our bathroom, really.
   - I pinch my nose. "Why do you smell like a girl's bathroom on steroids? Those
     products are expensive, you know."
   - Molly scratches her head apologettically. "I just can't get over how gross I
@@ -43,7 +43,13 @@ MonoBehaviour:
   - Molly sighs. "I guess you were right. It wasn't anything I could have avoided
     or that I can even explain." She frowns. "I don't know how to feel about this,
     and what it means."
-  - '"It''s scary, yeah."I find her eyes again, wanting to be honest. "But it still
-    wasn''t right of me to brush you off and rush you getting over it for my own
-    sake."'
+  - I find her eyes again, wanting to be honest. "But it still wasn't right of me
+    to brush you off to rush you getting over it for what was ultimately my own sake.
+  - 'I mean, let''s be real: the odds of it being some occult thing were near zero.
+    It''s not on you, none of this has been." I get a bit shy. "I''m glad you finally
+    opened up about things last night, though."'
+  - Molly laughs. "Opened up? You dragged it out of me by going through some sick
+    time loop. I hardly call that opening up." She grins. "I'm happy I did, though.
+    And that we made up."
+  - I smile wider than I have in a long time. "Yeah."
   responses: []
