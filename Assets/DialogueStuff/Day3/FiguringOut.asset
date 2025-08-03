@@ -13,11 +13,18 @@ MonoBehaviour:
   m_Name: FiguringOut
   m_EditorClassIdentifier: 
   dialogue:
+  - "Occult nonsense doesn't sound like nonsense after being stuck in a time loop.
+    Molly seems very keen on digging into this, so I think she may be right, and
+    some kind of supernatural activity is at work.\r"
+  - "Supposedly, ghosts are often made from some kind of regret, and there's potent
+    amounts of it going around... Plus, Shipton's full of ghost stories and urbans
+    myths. My nanna says she has prophetic dreams. Guess it's true.\r"
   - "Right. So those people who drowned, and that kid\u2014 they were taken by some
-    sort of ghost? If that\u2019s what\u2019s happened to Molly, too\u2014"
+    sort of vengeful, grabby ghosts? The kind that wants to drown others the same
+    way they went down? If that\u2019s what\u2019s happened to Molly, too\u2014"
   - "I have to go help her! If the ghosts are connected to the oil from the spill\u2014
     the water got all oily late last night, and what I saw come at me..."
-  - "I bet that was the ghost we\u2019ve both been dreaming about. Maybe I can do
+  - "Maybe that was the ghost we\u2019ve both been dreaming about. Maybe I can do
     something to lure it out of the water. "
   - "Hmm\u2014 ghost hunting techniques? I\u2019d better do some research before
     I head to the beach tonight. I\u2019m getting Molly back from this thing no matter
