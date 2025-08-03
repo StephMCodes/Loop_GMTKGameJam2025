@@ -46,6 +46,7 @@ public class ResponseHandler : MonoBehaviour
             //buttonRect.anchoredPosition = new Vector2(0, -i * responseButtonTemplate.sizeDelta.y);
             responseButton.gameObject.SetActive(true);
             responseButton.GetComponent<TMP_Text>().text = response.ResponseText;
+
             //addlistener attaches a delegate/function to the onclick
             //this programatically adds the function to the button!
             responseButton.GetComponent<Button>().onClick.AddListener(() => OnPickedResponse(response, responseIndex));

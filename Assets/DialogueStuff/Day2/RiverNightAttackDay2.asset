@@ -27,6 +27,4 @@ MonoBehaviour:
     for sure... The thought of it pins me in place, and I stand helpless as the gunky
     water forms into something I don't understand in the darkness...
   - Something that lunges out at me-
-  responses:
-  - responseText: WAKE UP
-    dialogueObject: {fileID: 11400000, guid: ddf345ec66687ec43aead944ed26c9dc, type: 2}
+  responses: []

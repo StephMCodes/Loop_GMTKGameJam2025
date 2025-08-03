@@ -29,7 +29,5 @@ MonoBehaviour:
   - But nothing I brought seems to work, and I don't know any prayers, so all I can
     think of is to just approach Molly, and hope the oil stays off me too.
   responses:
-  - responseText: Hug her
-    dialogueObject: {fileID: 11400000, guid: ddf345ec66687ec43aead944ed26c9dc, type: 2}
-  - responseText: Pull her away
+  - responseText: Try to pull her
     dialogueObject: {fileID: 11400000, guid: ddf345ec66687ec43aead944ed26c9dc, type: 2}
