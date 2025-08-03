@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: MollyNotes
   m_EditorClassIdentifier: 
   dialogue:
-  - insert molly notes here
   - The library, huh? Maybe she's there. She's not really a reader, so I had skipped
     it... It's the neighborhood library, too, so it's out of the way.
-  - Let's go check it out.
+  - Newspaper scans, huh? Who uses those anymore?
+  - I guess if anyone's gonna surprise me, it would be Molly. Let's go check it out.
   responses: []
