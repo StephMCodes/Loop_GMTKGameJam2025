@@ -17,6 +17,11 @@ public class DialogueUI : MonoBehaviour
     //reference to dialogue box make sure to drag and drop to canvas in editor
     [SerializeField] private GameObject dialogueBox;
 
+    //while dialogue is running, block mouse events
+    [SerializeField] private GameObject EventSystem;
+
+    public static bool inDialogue;
+
 
     public bool IsOpen { get; private set; } //only dialogue ui can set true or false. other scripts have readonly access
 
@@ -37,7 +42,7 @@ public class DialogueUI : MonoBehaviour
         //if (typewriterEffect == null) Debug.LogError("TypewriterEffect is NULL!");
         //if (responseHandler == null) Debug.LogError("ResponseHandler is NULL!");
         CloseDialogueBox(); //clean up
-
+        inDialogue = true;
         //method to make it appear on screen
         ShowDialogue(testDialogue); //passing dialogue object
 
@@ -49,6 +54,12 @@ public class DialogueUI : MonoBehaviour
         //GetComponent<TypewriterEffect>().Run("Hello again!\nThis is my second line.", textLabel);
     }
 
+    private void Update()
+    {
+        Debug.Log(inDialogue);
+
+    }
+
     public void ShowDialogue(DialogueObject dialogueObject)
     {
         //show box
@@ -58,6 +69,9 @@ public class DialogueUI : MonoBehaviour
 
         //start coroutine to wait before each of the entries of dialogue
         StartCoroutine(StepThroughDialogue(dialogueObject));
+
+        EventSystem.gameObject.SetActive(false);
+
     }
 
     private IEnumerator StepThroughDialogue(DialogueObject dialogueObject)
@@ -103,6 +117,9 @@ public class DialogueUI : MonoBehaviour
         {
             //Debug.LogError("Either responseHandler or dialogueObject.Responses is null!");
             CloseDialogueBox();
+            //allow mouse inputs again
+            EventSystem.SetActive(true);
+            inDialogue = false;
         }
 
     }
