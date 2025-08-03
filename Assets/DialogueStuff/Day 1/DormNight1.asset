@@ -27,6 +27,4 @@ MonoBehaviour:
     about it, despite our closeness, we're always just barely out of reach of one
     another.
   - And look where it got us...
-  responses:
-  - responseText: Sleep
-    dialogueObject: {fileID: 11400000, guid: ddf345ec66687ec43aead944ed26c9dc, type: 2}
+  responses: []
