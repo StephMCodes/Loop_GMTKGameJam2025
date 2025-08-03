@@ -19,21 +19,16 @@ MonoBehaviour:
   - I feel sick to my stomach, trying not to look behind me, as Molly instructed.
     But whatever's there is terrifying to Molly and the amalgamation too, who becomes
     erratic, so I can't run away.
-  - '"I regret everything, and I''ve been trying to fix it. I couldn''t bear to wake
-    up and see you lifelessly float up to the surface-  I''d rather die, and I feel
-    terrible for it.'
+  - I regret everything, and I've been trying to fix it. I couldn't bear to wake
+    up and see you lifelessly float up to the surface-  I'd rather die, and I feel
+    terrible for it.
   - Unlike you, I...I think I'd just rot in bed, or..." I swallow thickly, changing
     the subject. "I wouldn't be looking for answers, like you. Investigating all
     on your own.
-  - I regret everything, and I've been trying to fix it. To find you.  I know it's
-    too late to fix what happened while you were on watch, but I won't let the same
-    thing happen to you.
   - We're both haunted, I think... But I've been pretending otherwise, and I'm sorry.
     I haven't been a shoulder to cry on, or someone to be supported by. Please, let's
     just talk.
   - I miss you, and I miss when we told each other everything. I love you a whole
     lot... you know that? You've always looked out for me, and I really admire your
     kindness. I want to return the favour.
-  responses:
-  - responseText: Reach out
-    dialogueObject: {fileID: 11400000, guid: ddf345ec66687ec43aead944ed26c9dc, type: 2}
+  responses: []

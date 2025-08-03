@@ -21,6 +21,4 @@ MonoBehaviour:
     too. It''s all my fault, it  h a s  to be..."'
   - Horrified, the dread envelopping me becomes heavier and heavier, and I can't
     help but remained pinned where I am.
-  responses:
-  - responseText: No, it's my fault!
-    dialogueObject: {fileID: 11400000, guid: ddf345ec66687ec43aead944ed26c9dc, type: 2}
+  responses: []
