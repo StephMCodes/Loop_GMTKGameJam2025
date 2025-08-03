@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c686f3dd8afd4e241bc331869f602e6f, type: 3}
+  m_Name: Ending
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '[August 1st, 2025]
+
+    [10:15 AM]
+
+    [Dorm room]'
+  - I'm being lazy in bed when Molly comes out of our bathroom, smelling strongly
+    of shampoo, soap, conditionner, body spray, cream... Just everything in our bathroom,
+    really.
+  - I pinch my nose. "Why do you smell like a girl's bathroom on steroids? Those
+    products are expensive, you know."
+  - Molly scratches her head apologettically. "I just can't get over how gross I
+    was yesterday, eurgh. I can still feel it on my skin... like a phantooooom!"
+  - 'I make a face. "Molly."
+
+    "I feel alot better, though. How did you sleep?"'
+  - '"Better knowing I''d see you the next morning." I blush at the saccharine response,
+    and I''m not fully sure why.  "I still need to paint you, after all. Think of
+    my grades."'
+  - 'Molly puts a hand on her hip. "And I WON''T be getting some kind of not-so subtle
+    interrogation, right?"
+
+    "Promise."'
+  - "Molly suddenly looks quite sincere, any joking fa\xE7ade dissipating. \"Thanks
+    for finding me.\""
+  - I look away from that sincere gaze. "It's nothing... you would have done the
+    same for me. I'm glad we found out what happened for real. To think it was some
+    messed up ghost story..."
+  - Molly sighs. "I guess you were right. It wasn't anything I could have avoided
+    or that I can even explain." She frowns. "I don't know how to feel about this,
+    and what it means."
+  - '"It''s scary, yeah."I find her eyes again, wanting to be honest. "But it still
+    wasn''t right of me to brush you off and rush you getting over it for my own
+    sake."'
+  responses: []
